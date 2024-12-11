@@ -1,0 +1,17 @@
+# Ignorar arquivos de banco de dados
+*.db
+
+# Ignorar cache do Python
+__pycache__/
+*.pyc
+
+# Ignorar arquivos temporários
+*.tmp
+*.swp
+
+# Ignorar configurações de IDEs
+.vscode/
+.idea/
+
+# Ignorar logs
+*.log
